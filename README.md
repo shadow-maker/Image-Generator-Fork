@@ -1,3 +1,3 @@
-AI Image Generator
+# AI Image Generator
 
 By Jose Lozano
