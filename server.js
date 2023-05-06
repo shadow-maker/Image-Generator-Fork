@@ -30,4 +30,4 @@ app.post('/create', async (req, res) => {
     res.send({ image });
 });
 
-app.listen(8080, () => console.log('make art on http://localhost:8080/dream'));
+app.listen(8080, () => console.log('make art on http://localhost:8080/create'));
