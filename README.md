@@ -28,7 +28,7 @@
 <ul>
     <li>A supported browser: Chrome, Safari, or Firefox</li>
     <li>Node.js installed</li>
-    <li>Internet Access</li>
+    <li>npm installed</li>
     <li>OpenAI API key</li>
 </ul>
 
